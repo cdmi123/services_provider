@@ -1,0 +1,113 @@
+﻿
+@{
+    ViewData["Title"] = "provider";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+			<div class="content container-fluid">
+				<!-- Page Header -->
+				<div class="page-header">
+					<div class="row">
+						<div class="col">
+							<h3 class="page-title">Service Providers</h3>
+						</div>
+						<div class="col-auto text-end">
+							<a class="btn btn-white filter-btn" href="javascript:void(0);" id="filter_search">
+								<i class="fas fa-filter"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+				<!-- /Page Header -->
+				
+				<!-- Search Filter -->
+				<div class="card filter-card" id="filter_inputs">
+					<div class="card-body pb-0">
+						<form>
+							<div class="row filter-row">
+								<div class="col-sm-6 col-md-3">
+									<div class="form-group">
+										<label>Provider</label>
+										<input class="form-control" type="text">
+									</div>
+								</div>
+								<div class="col-sm-6 col-md-3">
+									<div class="form-group">
+										<label>From Date</label>
+										<div class="cal-icon">
+											<input class="form-control datetimepicker" type="text">
+										</div>
+									</div>
+								</div>
+								<div class="col-sm-6 col-md-3">
+									<div class="form-group">
+										<label>To Date</label>
+										<div class="cal-icon">
+											<input class="form-control datetimepicker" type="text">
+										</div>
+									</div>
+								</div>
+								<div class="col-sm-6 col-md-3">
+									<div class="form-group">
+										<button class="btn btn-primary btn-block w-100" type="submit">Submit</button>
+									</div>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+				<!-- /Search Filter -->
+				
+				<div class="row">
+					<div class="col-md-12">
+						<div class="card">
+							<div class="card-body">
+								<div class="table-responsive">
+									<table class="table table-hover table-center mb-0 datatable">
+										<thead>
+											<tr>
+												<th>#</th>
+												<th>Provider Name</th>
+												<th>Email</th>
+												<th>Status</th>
+												<th>Accept</th>
+											</tr>
+										</thead>
+										<tbody>
+
+								@{
+									int cnt=1;
+									foreach (System.Data.DataRow dr in ViewBag.provider_details.Rows)
+									{
+													<tr>
+														<td>@cnt</td>
+														<td>
+															<h2 class="table-avatar">
+																<a href="#">@dr["provider_name"].ToString()</a>
+															</h2>
+														</td>
+														<td>@dr["Email"]</td>
+														<td>
+														@if(dr["p_status"].ToString() == "0")
+														{
+															@Html.Label("Pending")
+														}
+														else
+														{
+															@Html.Label("Confirm")
+														}
+														</td>
+														<td>
+															  @Html.ActionLink("Accept", "update_provider_status", new { provider_id = dr["id"].ToString() },new { @class = "text-success"})
+														</td>
+													</tr>
+										cnt++; 
+									}
+								}
+										</tbody>
+									</table>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>

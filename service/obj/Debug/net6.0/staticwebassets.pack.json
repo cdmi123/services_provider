@@ -1,0 +1,1513 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\service.bundle.scp.css",
+      "PackagePath": "staticwebassets\\service.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\css\\admin.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\css\\admin.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\css\\ckeditor.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\css\\ckeditor.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\css\\feather.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\css\\feather.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\CircularStd-Black.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\CircularStd-Black.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\CircularStd-BlackItalic.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\CircularStd-BlackItalic.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\CircularStd-Bold.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\CircularStd-Bold.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\CircularStd-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\CircularStd-BoldItalic.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\CircularStd-Book.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\CircularStd-Book.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\CircularStd-BookItalic.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\CircularStd-BookItalic.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\CircularStd-Medium.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\CircularStd-Medium.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\CircularStd-MediumItalic.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\CircularStd-MediumItalic.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\Feather144f.svg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\Feather144f.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\Feather144f.ttf",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\Feather144f.ttf"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\fonts\\Feather144f.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\fonts\\Feather144f.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\app.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\app.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\break.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\break.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\category\\category-01.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\category\\category-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\category\\category-02.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\category\\category-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\category\\category-03.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\category\\category-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\category\\category-04.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\category\\category-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\category\\category-05.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\category\\category-05.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\category\\category-06.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\category\\category-06.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\category\\category-07.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\category\\category-07.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\category\\category-08.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\category\\category-08.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\category\\category-09.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\category\\category-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-01.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-02.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-03.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-04.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-05.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-05.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-06.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-06.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-07.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-07.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-08.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-08.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-09.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\customer\\user-10.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\customer\\user-10.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\github.html",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\github.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\googlepay.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\googlepay.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\icons\\invoices-icon1.svg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\icons\\invoices-icon1.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\icons\\invoices-icon2.svg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\icons\\invoices-icon2.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\icons\\invoices-icon3.svg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\icons\\invoices-icon3.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\icons\\invoices-icon4.svg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\icons\\invoices-icon4.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\icons\\invoices-icon5.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\icons\\invoices-icon5.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\invoice-circle1.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\invoice-circle1.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\invoice-circle2.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\invoice-circle2.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\logo-icon.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\logo-icon.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-01.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-02.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-03.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-04.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-05.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-05.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-06.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-06.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-07.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-07.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-08.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-08.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-09.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\provider\\provider-10.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\provider\\provider-10.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-01.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-02.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-03.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-04.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-05.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-05.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-06.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-06.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-07.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-07.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-08.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-08.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-09.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-10.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-10.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-11.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-11.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-12.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-12.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\services\\service-13.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\services\\service-13.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\signature.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\signature.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-01.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-02.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-03.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-04.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-05.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-05.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-06.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-06.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-07.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-07.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-08.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-08.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-09.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\sub-category\\sub-category-10.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\sub-category\\sub-category-10.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\js\\admin.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\js\\admin.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\js\\ckeditor.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\js\\ckeditor.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\js\\feather.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\bootstrap-tagsinput\\js\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\bootstrap-tagsinput\\js\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\datatables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\datatables\\datatables.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.html",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\icons\\feather\\feather.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\icons\\feather\\feather.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\icons\\feather\\fonts\\feather-webfont6cfa-2.html",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\icons\\feather\\fonts\\feather-webfont6cfa-2.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\icons\\feather\\fonts\\feather-webfont6cfa-3.html",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\icons\\feather\\fonts\\feather-webfont6cfa-3.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\icons\\feather\\fonts\\feather-webfont6cfa.html",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\icons\\feather\\fonts\\feather-webfont6cfa.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\icons\\feather\\fonts\\feather-webfont6cfa.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\icons\\feather\\fonts\\feather-webfont6cfa.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\owlcarousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\owlcarousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\owlcarousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\owlcarousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\owlcarousel\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\owlcarousel\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\summernote\\dist\\font\\summernotec360.eot",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\summernote\\dist\\font\\summernotec360.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\summernote\\dist\\font\\summernotec360.ttf",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\summernote\\dist\\font\\summernotec360.ttf"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\summernote\\dist\\font\\summernotec360.woff",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\summernote\\dist\\font\\summernotec360.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\admincss\\assets\\plugins\\summernote\\dist\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\admincss\\assets\\plugins\\summernote\\dist\\summernote-lite.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\ap.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ap.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\app-ap-02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\app-ap-02.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\app-ap.png",
+      "PackagePath": "staticwebassets\\assets\\img\\app-ap.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\app-gp-02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\app-gp-02.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\app-gp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\app-gp.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\app.png",
+      "PackagePath": "staticwebassets\\assets\\img\\app.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\banner-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-bg.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\banner-four.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-four.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\banner-one.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-one.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\banner-three.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-three.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\banner-two.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-two.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\bgapp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bgapp.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\cat-bg-01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-bg-01.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\cat-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-bg.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-05.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-06.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-07.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-08.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-10.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-11.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-12.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-13.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-14.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-15.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-16.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-17.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-18.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-19.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-20.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-21.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-22.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-23.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-23.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\category\\category-24.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\category-24.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-05.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-06.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-07.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-08.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\customer\\user-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\customer\\user-10.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\down-app-02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\down-app-02.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\down-app-03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\down-app-03.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\down-app-bg-01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\down-app-bg-01.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\down-app-bg-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-app-bg-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\down-app-bg-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-app-bg-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\down-app-bg-03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\down-app-bg-03.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\down-app-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\down-app-bg.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\down-app.png",
+      "PackagePath": "staticwebassets\\assets\\img\\down-app.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\foot-circle.png",
+      "PackagePath": "staticwebassets\\assets\\img\\foot-circle.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\foot-dot-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\foot-dot-1.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\foot-dot.png",
+      "PackagePath": "staticwebassets\\assets\\img\\foot-dot.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\gp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gp.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\hiwbg-01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hiwbg-01.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\hiwbg-02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hiwbg-02.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\hiwbg-03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hiwbg-03.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\hiwbg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hiwbg.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-1.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-2.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-3.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\icon-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-4.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\icon-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-5.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\icon-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-6.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\icon-7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-7.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\icon-8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-8.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\icon-9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-9.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\logo-four.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-four.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\logo-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-icon-1.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\logo-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-icon-2.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-icon.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\logo-one.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-one.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\logo-three.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-three.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\logo-two.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-two.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\object-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\object-1.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\provider\\provider-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\provider\\provider-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\provider\\provider-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\provider\\provider-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\provider\\provider-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\provider\\provider-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\provider\\provider-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\provider\\provider-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\provider\\provider-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\provider\\provider-05.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\provider\\provider-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\provider\\provider-06.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\provider\\provider-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\provider\\provider-07.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\provider\\provider-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\provider\\provider-08.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\service-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\service-bg-1.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-bg.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-02.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-03.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-05.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-06.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-07.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-08.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-10.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-11.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-12.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-13.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-14.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-15.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-16.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-17.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-18.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-19.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-20.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-21.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\services\\service-22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-22.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\title-image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\title-image.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\title-image2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\title-image2.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\top-head.png",
+      "PackagePath": "staticwebassets\\assets\\img\\top-head.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\usa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\usa.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\wallet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\wallet.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\work-icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-icon-1.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\work-icon-10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\work-icon-10.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\work-icon-11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\work-icon-11.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\work-icon-12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\work-icon-12.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\work-icon-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\work-icon-2.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\work-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\work-icon-3.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\work-icon-7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\work-icon-7.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\work-icon-8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\work-icon-8.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\img\\work-icon-9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\work-icon-9.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\aos\\aos.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\aos\\aos.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400-1.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400-1.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400-1.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400-1.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900-1.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900-1.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\owlcarousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owlcarousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\owlcarousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owlcarousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\owlcarousel\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owlcarousel\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\theia-sticky-sidebar\\ResizeSensor.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\theia-sticky-sidebar\\ResizeSensor.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\assets\\plugins\\theia-sticky-sidebar\\theia-sticky-sidebar.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\theia-sticky-sidebar\\theia-sticky-sidebar.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\categoryimage\\photo1.png",
+      "PackagePath": "staticwebassets\\categoryimage\\photo1.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\categoryimage\\service-04.jpg",
+      "PackagePath": "staticwebassets\\categoryimage\\service-04.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\categoryimage\\service-09.jpg",
+      "PackagePath": "staticwebassets\\categoryimage\\service-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\categoryimage\\service-12.jpg",
+      "PackagePath": "staticwebassets\\categoryimage\\service-12.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\categoryimage\\service-17.jpg",
+      "PackagePath": "staticwebassets\\categoryimage\\service-17.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\profileimage\\20210115133233_IMG_3637.JPG",
+      "PackagePath": "staticwebassets\\profileimage\\20210115133233_IMG_3637.JPG"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\profileimage\\avatar2.png",
+      "PackagePath": "staticwebassets\\profileimage\\avatar2.png"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\servicesimage\\service-01.jpg",
+      "PackagePath": "staticwebassets\\servicesimage\\service-01.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\servicesimage\\service-09.jpg",
+      "PackagePath": "staticwebassets\\servicesimage\\service-09.jpg"
+    },
+    {
+      "Id": "E:\\lecture\\asp.net\\service\\service\\wwwroot\\servicesimage\\service-13.jpg",
+      "PackagePath": "staticwebassets\\servicesimage\\service-13.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.service.props",
+      "PackagePath": "build\\service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.service.props",
+      "PackagePath": "buildMultiTargeting\\service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.service.props",
+      "PackagePath": "buildTransitive\\service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.service.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

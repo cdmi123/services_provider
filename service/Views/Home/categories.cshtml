@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "categories";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Breadcrumb -->
+<div class="breadcrumb-bar">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="breadcrumb-title">
+                    <h2>Categories</h2>
+                </div>
+            </div>
+            <div class="col-auto float-end ms-auto breadcrumb-menu">
+                <nav aria-label="breadcrumb" class="page-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a href="index.html">Home</a>
+                        </li>
+                        <li class="breadcrumb-item active" aria-current="page">Categories</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /Breadcrumb -->
+
+<div class="content">
+    <div class="container">
+        <div class="catsec clearfix">
+            <div class="row">
+                @foreach (System.Data.DataRow dr in ViewBag.DataSource.Rows)
+                {
+                <div class="col-lg-4 col-md-6">
+                    <a asp-action="search" asp-controller="Home">
+                        <div class="cate-widget">
+                            <img src="~/categoryimage/@dr["cat_image"].ToString()" alt="" height="250px" width="100px">
+                            <div class="cate-title">
+                                <h3><span><i class="fas fa-circle"></i>@dr["cat_name"].ToString()</span></h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                }
+            </div>
+        </div>
+    </div>﻿
+</div>﻿
+

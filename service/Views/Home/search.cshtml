@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row">
+  
+        <div class="col-lg-9">
+            <div class="row align-items-center mb-4">
+                <div class="col-md-6 col">
+                    <h4><span>@ViewBag.Totalservices</span> Services</h4>
+                </div>
+                <div class="col-md-6 col-auto">
+                    <div class="view-icons">
+                        <a href="javascript:void(0);" class="grid-view active"><i class="fas fa-th-large"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="row">
+                    @foreach (System.Data.DataRow dr in ViewBag.DataSource.Rows)
+                    {
+                    <div class="col-lg-4 col-md-6">
+                        <div class="service-widget">
+                            <div class="service-img">
+                                <a href="service-details.html">
+                                    <img class="img-fluid serv-img" alt="Service Image" src="~/servicesimage/@dr["image"].ToString()">
+                                </a>
+                                <div class="fav-btn">
+                                    <a href="javascript:void(0)" class="fav-icon">
+                                        <i class="fas fa-heart"></i>
+                                    </a>
+                                </div>
+                                <div class="item-info">
+                                    <div class="service-user">
+                                        <span class="service-price">₹@dr["price"].ToString()</span>
+                                    </div>
+                                    <div class="cate-list">
+                                        @Html.ActionLink(dr["cat_name"].ToString(), "servicedetails", new { services_id = dr["id"].ToString() },new { @class = "bg_yellow"})
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title">
+                                    @Html.ActionLink(dr["name"].ToString(), "servicedetails", new { services_id = dr["id"].ToString() })
+                                </h3>
+                                <div class="user-info">
+                                    <div class="row">
+                                        <span class="col-auto ser-contact">
+                                            <i class="fas fa-phone me-1"></i>
+                                            <span>@dr["contactno"].ToString()</span>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewData["Title"] = "services";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="content">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="section-header text-center">
+                    <h2>Add Service</h2>
+                </div>
+                <form asp-action="services" asp-controller="admin" method="post" enctype="multipart/form-data">
+                    <div class="service-fields mb-3">
+                        <h3 class="heading-2">Service Information</h3>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <label>Service Title <span class="text-danger">*</span></label>
+                                    <input class="form-control" type="text" name="name">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label>Service Amount <span class="text-danger">*</span></label>
+                                    <input class="form-control" type="text" name="price">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label>Category <span class="text-danger">*</span></label>
+                                    <select class="form-control form-select" name="cat_name">
+                                        @foreach (System.Data.DataRow dr in ViewBag.DataSource.Rows)
+                                        {
+                                            <option value="@dr["cat_name"].ToString()">@dr["cat_name"].ToString()</option>
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <label>Contact No<span class="text-danger">*</span></label>
+                                    <input class="form-control" type="text" name="contactno">
+                                </div>
+                            </div>
+                             <div class="col-lg-12">
+                                <div class="form-group">
+                                    <label>Select Provider<span class="text-danger">*</span></label>
+                                    <select class="form-control">
+                                        <option selected disabled>Select Provider</option>
+                                        @foreach(System.Data.DataRow dr in ViewBag.provider_data.Rows)
+                                        {
+                                        <option value="@dr["id"].ToString()">@dr["provider_name"].ToString()</option>
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <label>Select Image <span class="text-danger">*</span></label>
+                                    <input class="form-control" type="file" name="FormFile">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="submit-section">
+                        <button class="btn btn-primary submit-btn" type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>﻿
+

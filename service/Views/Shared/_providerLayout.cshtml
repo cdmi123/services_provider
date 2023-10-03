@@ -1,0 +1,409 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from html.truelysell.com/template/provider-dashboard.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 Aug 2022 11:44:14 GMT -->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+	<title>Truelysell | Template</title>
+
+	<!-- Favicons -->
+	<link rel="shortcut icon" href="~/assets/img/favicon.png">
+	
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;1,400&amp;display=swap" rel="stylesheet"> 
+	
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="~/assets/plugins/bootstrap/css/bootstrap.min.css">
+
+	<!-- Fontawesome CSS -->
+	<link rel="stylesheet" href="~/assets/plugins/fontawesome/css/fontawesome.min.css">
+	<link rel="stylesheet" href="~/assets/plugins/fontawesome/css/all.min.css">
+
+	<!-- Main CSS -->
+	<link rel="stylesheet" href="~/assets/css/style.css">
+</head>
+
+<body>
+
+	<div class="main-wrapper">
+	
+		<!-- Header -->
+		<header class="header">
+			<nav class="navbar navbar-expand-lg header-nav">
+				<div class="navbar-header">
+					<a id="mobile_btn" href="javascript:void(0);">
+						<span class="bar-icon">
+							<span></span>
+							<span></span>
+							<span></span>
+						</span>
+					</a>
+					<a href="index.html" class="navbar-brand logo">
+						<img src="~/assets/img/logo.png" class="img-fluid" alt="Logo">
+					</a>
+					<a href="index.html" class="navbar-brand logo-small">
+						<img src="~/assets/img/logo-icon.png" class="img-fluid" alt="Logo">
+					</a>
+				</div>
+				<div class="main-menu-wrapper">
+					<div class="menu-header">
+						<a href="index.html" class="menu-logo">
+							<img src="~/assets/img/logo.png" class="img-fluid" alt="Logo">
+						</a>
+						<a id="menu_close" class="menu-close" href="javascript:void(0);"> <i class="fas fa-times"></i></a>
+					</div>
+				</div>
+				
+				<ul class="nav header-navbar-rht">
+
+					<li class="nav-item desc-list">
+						<a asp-action="Add_services" asp-controller="Home" class="nav-link header-login">
+							<i class="fas fa-plus-circle me-1"></i> <span>Post a Service</span>
+						</a>
+					</li>
+
+					<!-- Notifications -->
+					<li class="nav-item dropdown logged-item">
+						<a href="#" class="dropdown-toggle nav-link" data-bs-toggle="dropdown" aria-expanded="false">
+							<i class="fas fa-bell"></i> <span class="badge badge-pill bg-yellow">1</span>
+						</a>
+						<div class="dropdown-menu notify-blk dropdown-menu-end notifications">
+							<div class="topnav-dropdown-header">
+								<span class="notification-title">Notifications</span>
+								<a href="javascript:void(0)" class="clear-noti">Clear All  </a>
+							</div>
+							<div class="noti-content">
+								<ul class="notification-list">
+									<li class="notification-message">
+										<a href="notifications.html">
+											<div class="media d-flex">
+												<span class="avatar avatar-sm flex-shrink-0">
+													<img class="avatar-img rounded-circle" alt="User Image" src="~/assets/img/customer/user-01.jpg">
+												</span>
+												<div class="media-body flex-grow-1">
+													<p class="noti-details"> <span class="noti-title">Jeffrey Akridge has booked your service</span></p>
+													<p class="noti-time"><span class="notification-time">Today 10:04 PM</span></p>
+												</div>
+											</div>
+										</a>
+									</li>
+									<li class="notification-message">
+										<a href="notifications.html">
+											<div class="media d-flex">
+												<span class="avatar avatar-sm flex-shrink-0">
+													<img class="avatar-img rounded-circle" alt="User Image" src="~/assets/img/customer/user-02.jpg">
+												</span>
+												<div class="media-body flex-grow-1">
+													<p class="noti-details"> <span class="noti-title">Nancy Olson has booked your service</span></p>
+													<p class="noti-time"><span class="notification-time">Today 9:45 PM</span></p>
+												</div>
+											</div>
+										</a>
+									</li>
+									<li class="notification-message">
+										<a href="notifications.html">
+											<div class="media d-flex">
+												<span class="avatar avatar-sm flex-shrink-0">
+													<img class="avatar-img rounded-circle" alt="User Image" src="~/assets/img/customer/user-03.jpg">
+												</span>
+												<div class="media-body flex-grow-1">
+													<p class="noti-details"> <span class="noti-title">Ramona Kingsley has booked your service</span></p>
+													<p class="noti-time"><span class="notification-time">Yesterday 8:17 AM</span></p>
+												</div>
+											</div>
+										</a>
+									</li>
+									<li class="notification-message">
+										<a href="notifications.html">
+											<div class="media d-flex">
+												<span class="avatar avatar-sm flex-shrink-0">
+													<img class="avatar-img rounded-circle" alt="User Image" src="~/assets/img/customer/user-04.jpg">
+												</span>
+												<div class="media-body flex-grow-1">
+													<p class="noti-details"> <span class="noti-title">Ricardo Lung has booked your service</span></p>
+													<p class="noti-time"><span class="notification-time">Yesterday 6:20 AM</span></p>
+												</div>
+											</div>
+										</a>
+									</li>
+									<li class="notification-message">
+										<a href="notifications.html">
+											<div class="media d-flex">
+												<span class="avatar avatar-sm flex-shrink-0">
+													<img class="avatar-img rounded-circle" alt="User Image" src="~/assets/img/customer/user-05.jpg">
+												</span>
+												<div class="media-body flex-grow-1">
+													<p class="noti-details"> <span class="noti-title">Annette Silva has booked your service</span></p>
+													<p class="noti-time"><span class="notification-time">17 Sep 2020 10:04 PM</span></p>
+												</div>
+											</div>
+										</a>
+									</li>
+								</ul>
+							</div>
+							<div class="topnav-dropdown-footer">
+								<a href="notifications.html">View all Notifications</a>
+							</div>
+						</div>
+					</li>
+					<!-- /Notifications -->
+
+					<!-- chat -->
+					<li class="nav-item logged-item">
+						<a href="chat.html" class="nav-link">
+							<i class="fa fa-comments" aria-hidden="true"></i>
+						</a>
+					</li>
+					<!-- /chat -->
+					
+					<!-- User Menu -->
+					<li class="nav-item dropdown has-arrow logged-item">
+						<a href="#" class="dropdown-toggle nav-link" data-bs-toggle="dropdown" aria-expanded="false">
+							<span class="user-img">
+								<img class="rounded-circle" src="~/profileimage/@TempData.Peek("imagename").ToString()" alt="" width="31">
+							</span>
+						</a>
+						<div class="dropdown-menu dropdown-menu-end">
+							<div class="user-header">
+								<div class="avatar avatar-sm">
+									<img class="avatar-img rounded-circle" src="~/profileimage/@TempData.Peek("imagename").ToString()" alt="">
+								</div>
+								<div class="user-text">
+									<a asp-action="logout_provider" asp-controller="Home"><h6 class="text-truncate">Logout</h6></a>
+									
+								</div>
+							</div>
+						</div>
+					</li>
+					<!-- /User Menu -->
+
+
+				</ul>
+			</nav>
+		</header>
+		<!-- /Header -->
+		
+		<div class="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-xl-3 col-md-4 theiaStickySidebar">
+						<div class="mb-4">
+							<div class="d-sm-flex flex-row flex-wrap text-center text-sm-start align-items-center">
+								<img alt="profile image" src="~/profileimage/@TempData.Peek("imagename").ToString()" class="avatar-lg rounded-circle">
+								<div class="ms-sm-3 ms-md-0 ms-lg-3 mt-2 mt-sm-0 mt-md-2 mt-lg-0">
+									<h6 class="mb-0">@TempData.Peek("name")</h6>
+									<p class="text-muted mb-0">Member Since Apr 2020</p>
+								</div>
+							</div>
+						</div>
+						<div class="widget settings-menu">
+							<ul>
+								<li class="nav-item">
+									<a href="provider-dashboard.html" class="nav-link active">
+										<i class="fas fa-chart-line"></i> <span>Dashboard</span>
+									</a>
+								</li>
+								<li class="nav-item">
+									<a asp-action="services_provider" asp-controller="Home" class="nav-link">
+										<i class="far fa-address-book"></i> <span>My Services</span>
+									</a>
+								</li>
+								<li class="nav-item">
+									<a asp-action="Booking_list" asp-controller="Home" class="nav-link">
+										<i class="far fa-calendar-check"></i> <span>Booking List</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				@RenderBody()
+				</div>
+			</div>
+		</div>﻿
+		
+
+			<div class="modal fade" id="deleteConfirmModal" tabindex="-1" role="dialog" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered">
+				<div class="modal-content">
+					<div class="modal-header"> 
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">	<span aria-hidden="true">&times;</span>
+						</button>
+					</div> 
+					<div class="modal-footer">	<a href="javascript:;" class="btn btn-success si_accept_confirm">Yes</a>
+						<button type="button" class="btn btn-danger si_accept_cancel" data-dismiss="modal">Cancel</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="modal fade" id="deleteNotConfirmModal" tabindex="-1" role="dialog" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="acc_title">Inactive Service?</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">	<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="modal-body">
+						<p>Service is Booked and Inprogress..</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger si_accept_cancel" data-dismiss="modal">OK</button>
+					</div>
+				</div>
+			</div>
+		</div>﻿
+
+		<!-- Footer -->
+		<footer class="footer">
+		
+			<!-- Footer Top -->
+			<div class="footer-top">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<!-- Footer Widget -->
+							<div class="footer-widget footer-menu">
+								<h2 class="footer-title">Quick Links  </h2>
+								<ul>
+									<li>
+										<a href="about-us.html">About Us</a>
+									</li>
+									<li>
+										<a href="contact-us.html">Contact Us</a>
+									</li>
+									<li>
+										<a href="faq.html">Faq</a>
+									</li>
+									<li>
+										<a href="#">Help</a>
+									</li>
+								</ul>
+							</div>
+							<!-- /Footer Widget -->
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<!-- Footer Widget -->
+							<div class="footer-widget footer-menu">
+								<h2 class="footer-title">Categories</h2>
+								<ul>
+									<li>
+										<a href="search.html">Computer</a>
+									</li>
+									<li>
+										<a href="search.html">Interior</a>
+									</li>
+									<li>
+										<a href="search.html">Car Wash</a>
+									</li>
+									<li>
+										<a href="search.html">Cleaning</a>
+									</li>
+								</ul>
+							</div>
+							<!-- /Footer Widget -->
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<!-- Footer Widget -->
+							<div class="footer-widget footer-contact">
+								<h2 class="footer-title">Contact Us</h2>
+								<div class="footer-contact-info">
+									<div class="footer-address">
+										<span><i class="far fa-building"></i></span>
+										<p>367 Hillcrest Lane, Irvine, California, United States</p>
+									</div>
+									<p><i class="fas fa-headphones"></i> 321 546 8764</p>
+									<p class="mb-0"><i class="fas fa-envelope"></i> <a href="https://html.truelysell.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="89fdfbfcece5f0faece5e5c9ecf1e8e4f9e5eca7eae6e4">[email&#160;protected]</a></p>
+								</div>
+							</div>
+							<!-- /Footer Widget -->
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<!-- Footer Widget -->
+							<div class="footer-widget">
+								<h2 class="footer-title">Follow Us</h2>
+								<div class="social-icon">
+									<ul>
+										<li>
+											<a href="#" target="_blank"><i class="fab fa-facebook-f"></i> </a>
+										</li>
+										<li>
+											<a href="#" target="_blank"><i class="fab fa-twitter"></i> </a>
+										</li>
+										<li>
+											<a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+										</li>
+										<li>
+											<a href="#" target="_blank"><i class="fab fa-google"></i></a>
+										</li>
+									</ul>
+								</div>
+								<div class="subscribe-form">
+                                    <input type="email" class="form-control" placeholder="Enter your email">
+                                    <button type="submit" class="btn footer-btn">
+                                        <i class="fas fa-paper-plane"></i>
+                                    </button>
+                                </div>
+							</div>
+							<!-- /Footer Widget -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /Footer Top -->
+			
+			<!-- Footer Bottom -->
+			<div class="footer-bottom">
+				<div class="container">
+					<!-- Copyright -->
+					<div class="copyright">
+						<div class="row">
+							<div class="col-md-6 col-lg-6">
+								<div class="copyright-text">
+									<p class="mb-0">&copy; 2022 <a href="index.html">Truelysell</a>. All rights reserved.</p>
+								</div>
+							</div>
+							<div class="col-md-6 col-lg-6">
+								<!-- Copyright Menu -->
+								<div class="copyright-menu">
+									<ul class="policy-menu">
+										<li>
+											<a href="term-condition.html">Terms and Conditions</a>
+										</li>
+										<li>
+											<a href="privacy-policy.html">Privacy</a>
+										</li>
+									</ul>
+								</div>
+								<!-- /Copyright Menu -->
+							</div>
+						</div>
+					</div>
+					<!-- /Copyright -->
+				</div>
+			</div>
+			<!-- /Footer Bottom -->
+			
+		</footer>
+		<!-- /Footer -->
+		
+	</div>
+
+	<!-- jQuery -->
+	<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="~/assets/js/jquery-3.6.0.min.js"></script>
+
+	<!-- Bootstrap Core JS -->
+	<script src="~/assets/js/popper.min.js"></script>
+	<script src="~/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+
+	<!-- Sticky Sidebar JS -->
+	<script src="~/assets/plugins/theia-sticky-sidebar/ResizeSensor.js"></script>
+	<script src="~/assets/plugins/theia-sticky-sidebar/theia-sticky-sidebar.js"></script>
+
+	<!-- Custom JS -->
+	<script src="~/assets/js/script.js"></script>
+	
+</body>
+
+<!-- Mirrored from html.truelysell.com/template/provider-dashboard.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 Aug 2022 11:44:14 GMT -->
+</html>

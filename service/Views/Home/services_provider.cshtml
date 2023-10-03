@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewData["Title"] = "services_provider";
+    Layout = "~/Views/Shared/_providerLayout.cshtml";
+}
+
+<div class="col-xl-9 col-md-8">
+						<h4 class="widget-title">My Services</h4>
+						<ul class="nav nav-tabs menu-tabs">
+							<li class="nav-item active">
+								<a class="nav-link" asp-action="services_provider" asp-controller="Home">Active Services</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" asp-action="inactive_services" asp-controller="Home">Inactive Services</a>
+							</li>
+						</ul>
+						<div class="row">
+						@foreach (System.Data.DataRow dr in ViewBag.ActiveService.Rows)
+						{
+							<div class="col-lg-4 col-md-6 d-flex">
+								<div class="service-widget flex-fill">
+									<div class="service-img">
+										<a href="service-details.html">
+											<img class="img-fluid serv-img" alt="Service Image" src="~/servicesimage/@dr["image"].ToString()">
+										</a>
+										<div class="item-info">
+											<div class="service-user">
+												<a href="javascript:void(0);">
+													<img src="~/profileimage/@dr["provider_image"].ToString()" alt="">
+												</a>
+												<span class="service-price">₹@dr["price"].ToString()</span>
+											</div>
+											<div class="cate-list">
+												<a class="bg-yellow" href="service-details.html">@dr["cat_name"].ToString()</a>
+											</div>
+										</div>
+									</div>
+									<div class="service-content">
+										<h3 class="title">
+											<a href="service-details.html">@dr["name"].ToString()</a>
+										</h3>
+										<div class="rating">
+											<i class="fas fa-star filled"></i>
+											<i class="fas fa-star filled"></i>
+											<i class="fas fa-star filled"></i>
+											<i class="fas fa-star filled"></i>
+											<i class="fas fa-star filled"></i>
+											<span class="d-inline-block average-rating">(4.3)</span>
+										</div>
+										<div class="user-info">
+											<div class="service-action">
+												<div class="row">
+													<div class="col">
+														
+													</div>
+													<div class="col text-end">
+														<a href="javascript:void(0);" class="text-danger" data-toggle="modal" data-target="#deleteNotConfirmModal"><i class="far fa-Right-alt"></i> Active</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						}
+							
+							<!-- Pagination Links --> 
+					
+						</div>
+					</div>

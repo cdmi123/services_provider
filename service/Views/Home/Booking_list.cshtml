@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewData["Title"] = "Booking_list";
+    Layout = "~/Views/Shared/_providerLayout.cshtml";
+}
+
+		<div class="col-xl-9 col-md-8">
+						<div class="row align-items-center mb-4">
+							<div class="col">
+								<h4 class="widget-title mb-0">Booking List</h4>
+							</div>
+							<div class="col-auto">
+								<div class="sort-by">
+									<select class="form-control-sm custom-select searchFilter" id="status">
+										<option>All</option>
+										<option>Pending</option>
+										<option>Inprogress</option>
+										<option>Complete Request</option>
+										<option>Rejected</option>
+										<option>Cancelled</option>
+										<option>Completed</option>
+									</select>
+								</div>
+							</div>
+						</div>
+						<div id="dataList">
+							@foreach(System.Data.DataRow dr in ViewBag.book_services.Rows)
+							{
+							<div class="bookings">
+								<div class="booking-list">
+									<div class="booking-widget">
+										<a href="service-details.html" class="booking-img">
+											<img src="~/servicesimage/@dr["image"].ToString()" alt="User Image">
+										</a>
+										<div class="booking-det-info">
+											<h3>
+												<a href="service-details.html">@dr["name"].ToString()</a>
+											</h3>
+											<ul class="booking-details">
+												<li>
+									@if (dr["status"].ToString() == "0")
+									{
+										<span>Booking Date</span>@dr["booking_date"].ToString()<span class="badge badge-pill badge-prof bg-warning">Pending</span>
+									}
+									else if (dr["status"].ToString() == "1")
+									{
+										<span>Booking Date</span>@dr["booking_date"].ToString()<span class="badge badge-pill badge-prof bg-success">Accept</span>
+									}
+									else if (dr["status"].ToString() == "2")
+									{
+										<span>Booking Date</span>@dr["booking_date"].ToString()<span class="badge badge-pill badge-prof bg-primary">Completed</span>
+									}
+									else if (dr["status"].ToString() == "3")
+									{
+										<span>Booking Date</span>@dr["booking_date"].ToString()<span class="badge badge-pill badge-prof bg-danger">Reject</span>
+									}
+								</li>
+												<!--<li><span>Booking time</span> 13:00:00 - 14:00:00</li>-->
+												<li><span>Amount</span>₹ @dr["price"].ToString()</li>
+												<li><span>Location</span> @dr["location"].ToString()</li>
+												<li><span>Phone</span> @dr["phone_no"].ToString()</li>
+												<li>
+													<span>User</span>
+													 @dr["user_name"].ToString()
+												</li>
+											</ul>
+										</div>
+									</div>
+
+									<div class="booking-action">
+						@if (dr["status"].ToString() == "0")
+						{
+							@Html.ActionLink(" User Request Accept", "update_user_services_status", new { services_id = dr["booking_id"].ToString() },new { @class="btn btn-sm bg-success-light"})
+							@Html.ActionLink(" Cancel the Service", "update_services_status_cancel", new { services_id = dr["booking_id"].ToString() },new { @class="btn btn-sm bg-danger-light"})
+						}
+						else if(dr["status"].ToString() != "2")
+						{
+							@Html.ActionLink(" Request Completed", "update_complte_status", new { services_id = dr["booking_id"].ToString() },new { @class="btn btn-sm bg-success-light"})
+							@Html.ActionLink(" Cancel the Service", "update_services_status_cancel", new { services_id = dr["booking_id"].ToString() },new { @class="btn btn-sm bg-danger-light"})
+						}
+										
+									</div>
+								</div>
+							</div>
+							}
+						</div>
+					</div>
